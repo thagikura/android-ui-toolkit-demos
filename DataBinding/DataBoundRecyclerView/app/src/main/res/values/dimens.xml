@@ -21,4 +21,5 @@
     <dimen name="item_margin">16dp</dimen>
     <dimen name="fav_width">32dp</dimen>
     <dimen name="fav_height">32dp</dimen>
+    <dimen name="title_height">32dp</dimen>
 </resources>

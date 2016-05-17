@@ -16,4 +16,7 @@
 
 <resources>
     <string name="app_name">DataBoundRecyclerView</string>
+    <string name="state_population">%d Million</string>
+    <string name="city_list">City List</string>
+    <string name="mixed_list">Mixed List</string>
 </resources>

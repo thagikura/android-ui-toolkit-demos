@@ -18,4 +18,5 @@ package com.example.android.databoundrecyclerview;
 
 public interface ActionCallback {
     void onClick(City city);
+    void onClick(State state);
 }
