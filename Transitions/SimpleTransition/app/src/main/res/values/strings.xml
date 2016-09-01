@@ -12,5 +12,5 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">TransitionDemo</string>
+    <string name="app_name">SimpleTransition</string>
 </resources>

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.example.transitiondemo;
+package com.android.example.simpletransition;
 
 import android.support.transition.ChangeBounds;
 import android.support.transition.Transition;
